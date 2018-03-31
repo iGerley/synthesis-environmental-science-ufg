@@ -1,4 +1,7 @@
-# Dependency directories
+# Bundle caching directory
+.next/
+
+# Dependency directory
 node_modules/
 
 # Logs
@@ -7,8 +10,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # Runtime data
-yarn.lock
 package.lock
+yarn.lock
 
-# Bundle caching directory
-.next/
+# Yarn Integrity file
+.yarn-integritys
