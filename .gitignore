@@ -1,2 +1,14 @@
+# Dependency directories
 node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
 yarn.lock
+package.lock
+
+# Bundle caching directory
+.next/
