@@ -1,7 +1,7 @@
 {
   "name": "synthesis-environmental-science-ufg",
   "version": "1.0.0",
-  "description": ":seedling: :earth_americas: Synthesis about the education of environmental science at universities and schools.",
+  "description": "Synthesis about the education of environmental science at universities and schools.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +16,8 @@
     "ufg",
     "education"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Gerley Adriano <gerleyadrianomiranda@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/iGerley/synthesis-environmental-science-ufg/issues"
   },
