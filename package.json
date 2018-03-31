@@ -1,0 +1,20 @@
+{
+  "name": "synthesis-environmental-science-ufg",
+  "version": "1.0.0",
+  "description": ":seedling: :earth_americas: Synthesis about the education of environmental science at universities and schools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iGerley/synthesis-environmental-science-ufg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iGerley/synthesis-environmental-science-ufg/issues"
+  },
+  "homepage": "https://github.com/iGerley/synthesis-environmental-science-ufg#readme"
+}
