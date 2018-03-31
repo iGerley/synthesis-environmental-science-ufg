@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/iGerley/synthesis-environmental-science-ufg.git"
   },
-  "keywords": [],
+  "keywords": [
+    "synthesis",
+    "environmental-science",
+    "ufg",
+    "education"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
