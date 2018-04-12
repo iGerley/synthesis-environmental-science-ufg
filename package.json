@@ -39,9 +39,7 @@
     "webpack": "3.11.0",
     "webpack-dev-server": "2.11.1"
   },
-  "optionalDependencies": {
-    "fsevents": "*"
-  },
+  "optionalDependencies": {},
   "devEngines": {
     "node": "8.x || 9.x"
   }
