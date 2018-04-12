@@ -4,7 +4,7 @@
   "description": "Synthesis about the education of environmental science at universities and schools.",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server",
+    "dev": "webpack-dev-server --color --progress --open",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
