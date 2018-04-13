@@ -19,7 +19,7 @@ module.exports = {
 	devServer: {
 		compress: true,
 		contentBase: path.resolve(__dirname, 'public'),
-		compress: true,
+		inline: true,
 		port: 3000
 	}
 };
